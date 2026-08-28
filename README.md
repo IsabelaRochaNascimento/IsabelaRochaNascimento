@@ -67,25 +67,39 @@
 
 ---
 
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
+### 💻 Projeto Sistema
+
+Sistema desenvolvido durante a graduação, explorando lógica, organização de dados e desenvolvimento de uma aplicação.
+
 <a href="https://github.com/IsabelaRochaNascimento/Projeto_Sistema">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsabelaRochaNascimento&repo=Projeto_Sistema&theme=transparent&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&border_color=2563EB&bg_color=0D1117" />
+  <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br><br>
+
+### 🧠 Estrutura de Dados
+
+Projetos e exercícios desenvolvidos em C, explorando estruturas de dados, vetores, alocação de memória e fundamentos de programação.
 
 <a href="https://github.com/IsabelaRochaNascimento/estrutura-dados">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsabelaRochaNascimento&repo=estrutura-dados&theme=transparent&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&border_color=2563EB&bg_color=0D1117" />
+  <img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br><br>
+
+### 🐍 Python & POO
+
+Exercícios desenvolvidos durante os estudos de programação, explorando Python, lógica e conceitos introdutórios de programação orientada a objetos.
+
 <a href="https://github.com/IsabelaRochaNascimento/20262_fatec_ipi_poo_intro_git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsabelaRochaNascimento&repo=20262_fatec_ipi_poo_intro_git&theme=transparent&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&border_color=2563EB&bg_color=0D1117" />
+  <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
