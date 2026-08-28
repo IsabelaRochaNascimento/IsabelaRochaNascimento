@@ -125,7 +125,7 @@ Exercícios desenvolvidos durante os estudos de programação, explorando Python
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" />
 </a>
 
-<a href="SEU_LINKEDIN_AQUI">
+<a href="linkedin.com/in/isabela-rocha-do-nascimento">
   <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
