@@ -67,21 +67,24 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/IsabelaRochaNascimento/estrutura-dados">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsabelaRochaNascimento&repo=estrutura-dados&theme=transparent&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB&border_color=2563EB" />
+<a href="https://github.com/IsabelaRochaNascimento/Projeto_Sistema">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsabelaRochaNascimento&repo=Projeto_Sistema&theme=transparent&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&border_color=2563EB&bg_color=0D1117" />
 </a>
 
-<a href="https://github.com/IsabelaRochaNascimento/fatec-ipiranga-pem-20261-2040482522018-IsabelaRocha">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsabelaRochaNascimento&repo=fatec-ipiranga-pem-20261-2040482522018-IsabelaRocha&theme=transparent&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB&border_color=2563EB" />
+<a href="https://github.com/IsabelaRochaNascimento/estrutura-dados">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsabelaRochaNascimento&repo=estrutura-dados&theme=transparent&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&border_color=2563EB&bg_color=0D1117" />
+</a>
+
+<a href="https://github.com/IsabelaRochaNascimento/20262_fatec_ipi_poo_intro_git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsabelaRochaNascimento&repo=20262_fatec_ipi_poo_intro_git&theme=transparent&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&border_color=2563EB&bg_color=0D1117" />
 </a>
 
 </div>
-
----
 
 ## 📊 GitHub Stats
 
