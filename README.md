@@ -104,13 +104,11 @@ Exercícios desenvolvidos durante os estudos de programação, explorando Python
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsabelaRochaNascimento&show_icons=true&include_all_commits=true&count_private=true&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&border_color=2563EB&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=IsabelaRochaNascimento&show_icons=true&theme=transparent&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&border_color=2563EB" height="180" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaRochaNascimento&layout=compact&langs_count=7&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&border_color=2563EB&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaRochaNascimento&layout=compact&theme=transparent&title_color=38BDF8&text_color=CBD5E1&border_color=2563EB" height="180" />
 
 </div>
-
----
 
 ## 🐍 My Contributions
 
