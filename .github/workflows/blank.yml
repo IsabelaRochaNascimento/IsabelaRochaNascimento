@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -11,16 +17,15 @@ jobs:
 
     steps:
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: IsabelaRochaNascimento
           outputs: |
-            dist/github-snake.svg?color_snake=%2338BDF8&color_dots=%230D1117%23%23BAE6FD%2C%237DD3FC%2C%2338BDF8%2C%232563EB%2C%231D4ED8
+            dist/github-snake.svg?color_snake=#38BDF8&color_dots=#0D1117,#BAE6FD,#7DD3FC,#38BDF8,#2563EB
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish Snake
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
