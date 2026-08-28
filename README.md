@@ -121,13 +121,15 @@ Exercícios desenvolvidos durante os estudos de programação, explorando Python
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/isabela-rocha-do-nascimento/">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" />
+<a href="https://www.linkedin.com/in/isabela-rocha-do-nascimento/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="linkedin.com/in/isabela-rocha-do-nascimento">
-  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:isabela.rochadonascimento@gmail.com">
+  <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+</div>
 
 </div>
 
