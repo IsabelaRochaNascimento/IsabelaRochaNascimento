@@ -109,12 +109,11 @@ Exercícios desenvolvidos durante os estudos de programação, explorando Python
 </div>
 
 ---
-
 ## 🐍 My Contributions
 
 <div align="center">
 
-🐍 <i>My contribution journey is just getting started...</i> 🚀
+<img src="https://raw.githubusercontent.com/IsabelaRochaNascimento/IsabelaRochaNascimento/output/github-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
